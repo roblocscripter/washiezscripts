@@ -1,1 +1,1 @@
-just some scripts i made
+just some scripts for washiez
